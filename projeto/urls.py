@@ -19,5 +19,5 @@ from django.urls import include, path
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('recipes.urls'))
-
+    # Carrega o urls do app recipes, para o projeto core
 ]
