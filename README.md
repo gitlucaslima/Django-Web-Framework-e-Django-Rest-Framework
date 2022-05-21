@@ -1,3 +1,3 @@
 # Django-Web-Framework-e-Django-Rest-Framework
-#Plataforma Web de REceitas Culinarias<br>
+#Plataforma Web de Receitas Culinarias<br>
 #Status: Em produção
